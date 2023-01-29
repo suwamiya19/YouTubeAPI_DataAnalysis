@@ -1,0 +1,55 @@
+{
+   "kind":"youtube#channelListResponse",
+   "etag":"ikxWuB-B6NBxK_38mVP84MKoIvY",
+   "pageInfo":{
+      "totalResults":1,
+      "resultsPerPage":5
+   },
+   "items":[
+      {
+         "kind":"youtube#channel",
+         "etag":"x37I3afHxAHUJPGHvQ2-8wtKk24",
+         "id":"UC5_4POQX0WtMhUpRsh-YQhA",
+         "snippet":{
+            "title":"The Cheeky DNA",
+            "description":"",
+            "customUrl":"@thecheekydna",
+            "publishedAt":"2016-12-31T13:16:49Z",
+            "thumbnails":{
+               "default":{
+                  "url":"https://yt3.ggpht.com/xjNcR7ykgeZxqwx7klsYbygYQb4e1wcoHB_iaftvO_FOPayG20mB4kOeSHnrmVhqxdZ_tGHSow=s88-c-k-c0x00ffffff-no-rj",
+                  "width":88,
+                  "height":88
+               },
+               "medium":{
+                  "url":"https://yt3.ggpht.com/xjNcR7ykgeZxqwx7klsYbygYQb4e1wcoHB_iaftvO_FOPayG20mB4kOeSHnrmVhqxdZ_tGHSow=s240-c-k-c0x00ffffff-no-rj",
+                  "width":240,
+                  "height":240
+               },
+               "high":{
+                  "url":"https://yt3.ggpht.com/xjNcR7ykgeZxqwx7klsYbygYQb4e1wcoHB_iaftvO_FOPayG20mB4kOeSHnrmVhqxdZ_tGHSow=s800-c-k-c0x00ffffff-no-rj",
+                  "width":800,
+                  "height":800
+               }
+            },
+            "localized":{
+               "title":"The Cheeky DNA",
+               "description":""
+            },
+            "country":"IN"
+         },
+         "contentDetails":{
+            "relatedPlaylists":{
+               "likes":"",
+               "uploads":"UU5_4POQX0WtMhUpRsh-YQhA"
+            }
+         },
+         "statistics":{
+            "viewCount":"67467002",
+            "subscriberCount":"303000",
+            "hiddenSubscriberCount":false,
+            "videoCount":"235"
+         }
+      }
+   ]
+}
