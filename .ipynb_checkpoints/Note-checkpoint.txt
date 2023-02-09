@@ -18,5 +18,14 @@ We are using below modules from the API,
 2. Create dataframe for each channel to analyse channel statistics & to get playlist id
 3. Using playlist id, get the list of all video ids
  
+----------------------
+EDA of YouTube channels statistics
 
+Aims and Objective:
+
+- Perform webscrapping of YouTube API to obtain Channel and its video data
+- Perform data analysis to understand how the following factors impact the video performance
+    - Views, likes, comments count 
+    - Video duration and video publish day
+    - How often the videos are published
 
